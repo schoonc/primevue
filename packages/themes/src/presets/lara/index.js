@@ -1,4 +1,4 @@
-import virtualscroller from '@primevue/themes/aura/virtualscroller';
+import virtualscroller from '@primevue/themes/lara/virtualscroller';
 import accordion from '@primevue/themes/lara/accordion';
 import autocomplete from '@primevue/themes/lara/autocomplete';
 import avatar from '@primevue/themes/lara/avatar';

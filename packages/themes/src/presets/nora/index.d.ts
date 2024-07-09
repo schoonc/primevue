@@ -2,7 +2,7 @@
  *
  * [Live Demo](https://www.primevue.org/)
  *
- * @module aura
+ * @module nora
  *
  */
 export interface ColorSchemeDesignToken<T> {
